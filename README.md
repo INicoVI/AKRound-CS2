@@ -1,0 +1,2 @@
+# AKRound-CS2
+CS2 PLUGİN
