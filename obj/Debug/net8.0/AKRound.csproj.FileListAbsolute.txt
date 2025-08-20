@@ -1,0 +1,12 @@
+C:\Users\halim\Desktop\source - Kopya - Kopya (2)\bin\Debug\net8.0\AKRound.deps.json
+C:\Users\halim\Desktop\source - Kopya - Kopya (2)\bin\Debug\net8.0\AKRound.dll
+C:\Users\halim\Desktop\source - Kopya - Kopya (2)\bin\Debug\net8.0\AKRound.pdb
+C:\Users\halim\Desktop\source - Kopya - Kopya (2)\obj\Debug\net8.0\AKRound.csproj.AssemblyReference.cache
+C:\Users\halim\Desktop\source - Kopya - Kopya (2)\obj\Debug\net8.0\AKRound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halim\Desktop\source - Kopya - Kopya (2)\obj\Debug\net8.0\AKRound.AssemblyInfoInputs.cache
+C:\Users\halim\Desktop\source - Kopya - Kopya (2)\obj\Debug\net8.0\AKRound.AssemblyInfo.cs
+C:\Users\halim\Desktop\source - Kopya - Kopya (2)\obj\Debug\net8.0\AKRound.csproj.CoreCompileInputs.cache
+C:\Users\halim\Desktop\source - Kopya - Kopya (2)\obj\Debug\net8.0\AKRound.dll
+C:\Users\halim\Desktop\source - Kopya - Kopya (2)\obj\Debug\net8.0\refint\AKRound.dll
+C:\Users\halim\Desktop\source - Kopya - Kopya (2)\obj\Debug\net8.0\AKRound.pdb
+C:\Users\halim\Desktop\source - Kopya - Kopya (2)\obj\Debug\net8.0\ref\AKRound.dll
